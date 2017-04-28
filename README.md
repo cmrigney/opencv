@@ -1,5 +1,7 @@
 ### OpenCV: Open Source Computer Vision Library
 
+[![CircleCI](https://circleci.com/gh/cmrigney/opencv.svg?style=svg)](https://circleci.com/gh/cmrigney/opencv)
+
 #### Resources
 
 * Homepage: <http://opencv.org>
